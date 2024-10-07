@@ -1,0 +1,1 @@
+Thank you for your interest in contributing to [Your Project Name]! Contributions are welcome and appreciated. This guide will help you understand how to get started and how to contribute to the project.
